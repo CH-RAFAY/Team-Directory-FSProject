@@ -1,4 +1,4 @@
-# FullStack Vue.js Data Search Platform
+# React Based Data Search Platform
 
 This repository contains a **full-stack web application built with Vue.js**, featuring a dynamic interface with integrated **backend data fetching and advanced search filtering mechanisms**.  
 
